@@ -3,5 +3,4 @@
 			<p>&copy; 2016;
 		</div>
 	</section>
-</body>
-</html>
+
