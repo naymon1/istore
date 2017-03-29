@@ -1,5 +1,5 @@
 <?php 
-/*
+
 define ('DBNAME', 'test');
 define ('DBUSER', 'root');
 define ('DBPASS', 'naymon');
@@ -14,7 +14,8 @@ try{
 
 } catch(PDOException $e){
 	echo $e->getMessage();
-}*/
+}
+
 # max file size...
 define("MAX_FILE_SIZE", "2097152");
 
